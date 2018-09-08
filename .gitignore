@@ -1,2 +1,6 @@
 *~
 .ipynb_checkpoints/
+pywikibot_/
+apicache-py3/
+throttle.ctrl
+user-config.py
